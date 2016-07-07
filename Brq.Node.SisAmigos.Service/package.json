@@ -1,0 +1,16 @@
+{
+  "name": "Brq.Node.SisAmigos.Service",
+  "version": "1.0.0",
+  "description": "Sistema de amigos com o Node.Js",
+  "main": "app.js",
+  "author": {
+    "name": "Aluno",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.5.0"
+  }
+}
